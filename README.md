@@ -7,8 +7,8 @@ I'm Kairav. Here's a bit about me:
 💼 Currently working at:
 - 
 
-- 📫 How to reach me:
+📫 How to reach me:
 - Send me an email at `kvarenya@student.ubc.ca`
 
-- 😄 Pronouns:
+😄 Pronouns:
 - he/him
