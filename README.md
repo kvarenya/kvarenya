@@ -2,7 +2,7 @@
 I'm Kairav. Here's a bit about me:
 
 💻 Currently studying:
- - `B.Sc. Computer Science` at the University of British Columbia 
+ - `B.ASc. Computer Engineering` at the University of British Columbia 
 
 💼 Currently working at:
  - `N/A`
