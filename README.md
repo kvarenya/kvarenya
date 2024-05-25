@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kairav. Here's a bit about me:
+I'm Kumar Varenya. Here's a bit about me:
 
 💻 Currently studying:
  - `B.ASc. Computer Engineering` at the University of British Columbia 
