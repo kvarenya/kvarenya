@@ -8,4 +8,4 @@ I'm Kumar Varenya. Here's a bit about me:
  - N/A
 
 📫 How to reach me:
-- Send me an email at `kumarvarenya85@gmail.com` or `kvarenya@student.ubc.ca`
+- Send me an email at `kvarenya@student.ubc.ca`
