@@ -18,15 +18,9 @@ I'm also currently a **Applied Science** student at the **University of British 
 
 #### 2023
 - N/A
-- 🎨 [DrawBot](https://devpost.com/software/drawbot-ulof5z) - A Robot to Turn Your Ideas Into Original Art on Paper!
+- 🎨 [Thing](https://googl.com) - Description
 
 #### 2022 and beyond...
-- 😷 [MaskPass](https://devpost.com/software/mlh-birthday-ads) - An AI-Powered Door System to Ensure Everyone Entering has Their Masks Properly Fitted.
-- 🦠 [Distributed Covid Simulation](https://devpost.com/software/distributed-covid-simulation) - Massively Parallel Distributed Monte Carlo Pandemic Modeling using DCP.
-- 👩‍🏫 [QuikSlide](https://github.com/EdwardJXLi/QuikSlide/) - Artificial Intelligence Powered Slideshow Creation Utility.
-- 🥕 [Freshify](https://devpost.com/software/freshify) - A gGrocery Platform that Fuses both the Local Community and Sustainable Consumption.
-
-#### Previous organizations I was involved with:
 - N/A
 
 </details>
