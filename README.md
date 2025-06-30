@@ -2,7 +2,7 @@
 
 I'm currently working at **[NA](...) building ...** Previously @ [...](...) & [...](...).  
 
-I'm also currently a **Applied Science** student at the **University of British Columbia**!
+I'm also currently an **Engineering** student at the **University of British Columbia**!
 
 #### Here's some organizations I'm involved with:
 - N/A
