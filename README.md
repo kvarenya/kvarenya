@@ -1,17 +1,17 @@
 ## 👋 Hi there, I'm [Varenya](kvarenya.github.io)!
 
-I'm currently working at **[NA](...) building ...** Previously @ [...](...) & [...](...).  
+I'm currently working at **[NA](...) building ...** Previously, I contributed at [...](...) & [...](...).
 
-I'm also currently an **Engineering** student at the **University of British Columbia**!
+I'm also an **Engineering** student at the **University of British Columbia**.
 
-#### Here's some organizations I'm involved with:
+#### Companies I've worked with:
 - N/A
 
-#### Here are some cool projects that I'm working on:
+#### Projects I'm currently building:
 - N/A
 
 <details>
-<summary><b>See More Projects & Organizations</b></summary>
+<summary><b>See More Projects</b></summary>
 
 #### 2024
 - N/A
@@ -22,6 +22,7 @@ I'm also currently an **Engineering** student at the **University of British Col
 
 #### 2022 and beyond...
 - N/A
+</details>
 
 </details>
 
