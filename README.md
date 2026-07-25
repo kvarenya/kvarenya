@@ -12,8 +12,11 @@ I'm also a **Computer Engineering** student at the **University of British Colum
 
 <details>
 <summary><b>See More Projects</b></summary>
+  
 - TO-DO
+  
 - TO-DO
+
 - TO-DO
 
 </details>
