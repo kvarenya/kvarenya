@@ -2,7 +2,7 @@
 
 I'm currently working at **[NA](...) building ...** Previously, I contributed at [...](...) & [...](...).
 
-I'm also an **Computer Engineering** student at the **University of British Columbia**.
+I'm also a **Computer Engineering** student at the **University of British Columbia**.
 
 #### Companies I've worked with:
 - N/A
